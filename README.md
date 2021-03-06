@@ -15,11 +15,14 @@ Two type of Analysis is created under Theatre Outcomes by Launch Date and second
 ### Analysis of Outcomes Based on Launch Date
 
 The main key in this analysis is the 'Parent Category' which is created by filtering the one category  from kickstarter data into two parts and named as parent and sub category. This is necessary to get better and firm results. For this Challenge it was asked to filter the parent category 'theatre' based on months for each campaign. To complete this, pivot table was created by selecting all data and filter parent category and years to months. the table shows that under Theatre category the number of successful campaign is 839 which is highest among all. To visualize this a line chart with marks created that shows in month May and Jun is the highest peak to 111 and 100.
+![image](https://user-images.githubusercontent.com/79673185/110222638-a9e31c80-7ea1-11eb-96ee-a55d7050ea23.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
 
 This analysis has major role play by subcategory 'plays' and 'goals' ranges. The ranges was given in deliverable section. The focus is to analyze the number and percentage of successful, failed and cancelled campaigns based on goal ranges. For this, I used Countifs and sum formula in excel and derived total outcomes to get the percentage results. In the chart display, the only the percentage of successful and failed outcome is displayed by using subcategory of 'plays'. This also shows that percentage of cancelled under plays was 0 in all ranges resulting 0 display as compare the other two. The outcome of successful lies in 40000 TO 45999 IS 100% where as for failed lies in 45000 to 49999.
+![image](https://user-images.githubusercontent.com/79673185/110222632-989a1000-7ea1-11eb-8e80-33122390ced4.png)
 
 
 ### Challenges and Difficulties Encountered
